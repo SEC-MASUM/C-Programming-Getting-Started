@@ -32,4 +32,15 @@ int main(void) {
 <dt>Warning: We cannot allow additional errors. You are therefore not allowed to write new code or remove code. You only need to correct the errors in the given code.</dt>
 </dl>
 
+***
+# Solution
+```C
+#include <stdio.h>
+int main(void) {
+    printf ("This is code with errors: ");
+    printf ("Fix them!");
+    return 0;
+}
+```
+
 
