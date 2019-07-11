@@ -1,6 +1,6 @@
 # Printing quotation marks, escaping special characters
 
-### Printing quotation marks, escaping special characters
+### Activity: print special characters
 You now know all about special characters now - in particular, how to print them to your screen. In this task, you'll get some more practice with these types of characters.
 
 Your goal is to print Dennis Ritchie's famous quote to the screen just as shown below. To make this task a bit harder, you are only allowed to use one printf statement in your entire program. Be sure not to omit anything and not to print anything extra.
