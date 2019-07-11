@@ -1,4 +1,4 @@
-Please help us fix this code. Here is the program in question:
+#Please help us fix this code. Here is the program in question:
 
 #include <stdio.h>
 
