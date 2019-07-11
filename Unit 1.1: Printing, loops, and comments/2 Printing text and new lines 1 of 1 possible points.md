@@ -8,7 +8,18 @@ I already know how to:
 - Start a new line.
 - Fix errors.
 ```
-Be careful: as a C developer, you have to respect certain rules. You need to print exactly what you see in the above box!
+**_Be careful: as a C developer, you have to respect certain rules. You need to print exactly what you see in the above box!_**
 
-### Note
-You may submit your solution as many times as you wish. Only your highest score will be kept.
+___
+
+# Solution
+```C
+#include <stdio.h>
+int main(void) {
+    printf("I already know how to:\n");
+    printf("- Print text to the screen.\n");
+    printf("- Start a new line.\n");
+    printf("- Fix errors.");
+    return 0;
+}
+```
