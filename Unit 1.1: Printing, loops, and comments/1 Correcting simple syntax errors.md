@@ -12,7 +12,9 @@ int main(void) {
 ```
 ### And here are the compiler error messages:
 
+
 ```C++
+
 /user-input:4:43: error: expected ';' after expression
     printf ("This is code with errors : ")
                                           ^
@@ -28,11 +30,10 @@ int main(void) {
     printf "Fix them!";
           ^~~~~~~~~~~  
 ```
-<dl>
-<dt>Warning: We cannot allow additional errors. You are therefore not allowed to write new code or remove code. You only need to correct the errors in the given code.</dt>
-</dl>
 
-***
+**_Warning: We cannot allow additional errors. You are therefore not allowed to write new code or remove code. You only need to correct the errors in the given code._**
+___
+
 # Solution
 ```C
 #include <stdio.h>
